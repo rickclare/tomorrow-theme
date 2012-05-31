@@ -71,6 +71,17 @@
                 <string>#DE935F</string>
               </dict>
            </dict>
+           <dict>
+              <key>name</key>
+              <string>Meta Selector</string>
+              <key>scope</key>
+              <string>meta.selector</string>
+              <key>settings</key>
+              <dict>
+                <key>foreground</key>
+                <string>#CC6666</string>
+              </dict>
+           </dict>
 		<dict>
 			<key>name</key>
 			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
