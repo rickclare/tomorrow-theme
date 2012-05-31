@@ -53,13 +53,24 @@
 			<key>name</key>
 			<string>Variable, String Link, Regular Expression, Tag Name</string>
 			<key>scope</key>
-			<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
+			<string>variable, support.other.variable, string.other.link, string.regexp, entity.name.tag, meta.tag, declaration.tag</string>
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
 				<string>#CC6666</string>
 			</dict>
 		</dict>
+           <dict>
+              <key>name</key>
+              <string>Tag Attribute</string>
+              <key>scope</key>
+              <string>entity.other.attribute-name</string>
+              <key>settings</key>
+              <dict>
+                <key>foreground</key>
+                <string>#DE935F</string>
+              </dict>
+           </dict>
 		<dict>
 			<key>name</key>
 			<string>Number, Constant, Function Argument, Tag Attribute, Embedded</string>
