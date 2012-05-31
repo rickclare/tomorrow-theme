@@ -110,6 +110,19 @@
 				<string>#B5BD68</string>
 			</dict>
 		</dict>
+           <dict>
+            <key>name</key>
+              <string>Symbols</string>
+              <key>scope</key>
+              <string>constant.other.symbol</string>
+              <key>settings</key>
+              <dict>
+                <key>fontStyle</key>
+                <string></string>
+                <key>foreground</key>
+                <string>#D28BA9</string>
+              </dict>
+           </dict>
 		<dict>
 			<key>name</key>
 			<string>Operator, Misc</string>
