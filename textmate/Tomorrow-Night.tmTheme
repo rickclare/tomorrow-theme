@@ -64,7 +64,7 @@
               <key>name</key>
               <string>Tag Attribute</string>
               <key>scope</key>
-              <string>entity.other.attribute-name</string>
+              <string>entity.name.param</string>
               <key>settings</key>
               <dict>
                 <key>foreground</key>
